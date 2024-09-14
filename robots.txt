@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bdaggu.github.io/VQI/sitemap.VQI.gz
